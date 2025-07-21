@@ -1,12 +1,12 @@
 # flask-app
 
- Objective
+# Objective
 
 Create a RESTful API using Flask to manage user data with support for basic CRUD operations.
 
 
 
-Tools & Technologies
+# Tools & Technologies
 
 Python
 
@@ -16,7 +16,7 @@ Postman or Curl (for API testing)
 
 
 
-Project Features
+# Project Features
 
 Create new users using POST
 
@@ -30,7 +30,7 @@ In-memory storage using Python dictionaries
 
 
 
-Testing with Postman
+# Testing with Postman
 
 Set the request type (GET, POST, PUT, DELETE)
 
@@ -40,7 +40,7 @@ For POST and PUT, select "raw" JSON format in the Body tab
 
 
 
-Key Concepts Learned
+# Key Concepts Learned
 
 RESTful API principles
 
@@ -53,7 +53,7 @@ In-memory user data storage
 
 
 
-Outcome
+# Outcome
 
 You will gain practical experience in:
 
